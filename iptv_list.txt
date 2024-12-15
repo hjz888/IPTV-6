@@ -126,4 +126,4 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000002400
 台湾频道,#genre#
 更新时间,#genre#
 2024-12-15,url
-06:35:11,url
+20:28:01,url
